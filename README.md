@@ -25,12 +25,6 @@ I'm a Computer Science student at **York University** with a passion for transfo
 
 ---
 
-# 👋 Hey there! I'm Anton Caushaj
-
-I'm a Computer Science student at **York University** with a passion for transforming data into meaningful insights and building practical, real-world solutions. I’ve worked on everything from automated dashboards and system monitoring tools to full-stack projects and data-driven business analysis.
-
----
-
 ## 💡 About Me
 
 - 🎓 3rd Year BSc in Computer Science @ YorkU (Expected 2026)
